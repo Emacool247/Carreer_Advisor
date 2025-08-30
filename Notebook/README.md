@@ -1,0 +1,2 @@
+# Carreer_Advisor
+This project aims to build a Career Path Advisor Chatbot that helps individuals discover suitable career opportunities based on their existing skills while recommending additional skills to enhance employability or transition into new fields. By analyzing a dataset of job descriptions with NLP, the chatbot will match user skills to relevant roles and suggest complementary skills for growth. The outcome is a personalized, interactive tool that empowers people to make informed career decisions and unlock new opportunities.
